@@ -9,6 +9,6 @@ jobs:
     steps:
       - name: Print messages for test_2
         run: |
-          echo "Rama 2 – Print 1"
-          echo "Rama 2 – Print 2"
-          echo "Rama 2 – Print 3"
+          echo "Juan Carlos Alonso Gonzalez"
+          echo "v22.11.0"
+          echo "expediente 740018"
